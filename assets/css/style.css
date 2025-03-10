@@ -1,0 +1,7 @@
+body { background-color: #0d0d0d; color: white; font-family: Arial, sans-serif; text-align: center; }
+.navbar { display: flex; justify-content: space-between; padding: 15px; background: #222; }
+.navbar ul { list-style: none; display: flex; }
+.navbar ul li { margin: 0 15px; }
+.navbar a { color: #ffcc00; text-decoration: none; font-size: 18px; }
+.hero { padding: 50px 20px; background: linear-gradient(45deg, #222, #111); }
+.hero h1 { color: #ffcc00; font-size: 36px; margin-bottom: 10px; }
